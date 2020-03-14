@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\amartel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\amartel\\.nuget\\packages"
+    ]
+  }
+}
